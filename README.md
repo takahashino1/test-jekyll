@@ -13,3 +13,5 @@ $ git clone git@github.com:takahashino1/test-jekyll.git
 $ jekyll serve
 ```
 
+## 公開URL
+https://takahashino1.github.io/test-jekyll/
